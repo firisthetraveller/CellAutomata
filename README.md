@@ -1,6 +1,9 @@
 # CellAutomata
 NieR Automata, but it's not NieR, it's just cells.
 
+## Download
+Either **clone the project using Git** or **download the archive using the *green* Code button**.
+
 ## Usage
 On macOS and Linux:
 ```sh
